@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: test-spring-boot-level-1
+Implementation-Version: 0.0.1
+Main-Class: coop.tecso.examen.NopPreMain
+Created-By: Maven Integration for Eclipse
+
